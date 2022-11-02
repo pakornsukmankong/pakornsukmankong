@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **at software codecamp 12**
 
-- 💬 Ask me about **react, node.js**
+- 💬 Ask me about **React.js, Node.js, MySQL**
 
 - 📫 How to reach me **floksong.001@gmail.com**
 
