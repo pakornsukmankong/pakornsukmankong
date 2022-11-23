@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pakorn Sukmankong</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pakorn Sukmankong</h1>
 <h3 align="center">A passionate man who want to be developer. Seeking to learn more about programming language</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakornsukmankong&label=Profile%20views&color=0e75b6&style=flat" alt="pakornsukmankong" /> </p>
 
 - 🔭 I’m currently working on **CodeCamp12 Project**
 
-- 🌱 I’m currently learning **at software codecamp 12**
+- 🌱 I’m currently learning **at software park codecamp 12**
 
 - 💬 Ask me about **React.js, Node.js, MySQL**
 
