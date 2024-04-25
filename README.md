@@ -12,11 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakornsukmankong&label=Profile%20views&color=0e75b6&style=flat" alt="pakornsukmankong" /> </p>
 
-- 🔭 I’m currently working on **CodeCamp12 Project**
+- 🔭 I’m currently working on **Bedee application**
 
-- 🌱 I’m currently learning **at software park codecamp 12**
+- 🌱 I’m currently learning **Flutter , GO**
 
-- 💬 Ask me about **React.js, Node.js, MySQL**
+- 💬 Ask me about **React.js, React-Navtive, Next.js, Node.js, Fastify, MySQL, Postgresql**
 
 - 📫 How to reach me **floksong.001@gmail.com**
 
