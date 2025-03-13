@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Flutter , GO**
 
-- 💬 Ask me about **React.js, React-Navtive, Next.js, Node.js, Fastify, MySQL, Postgresql**
+- 💬 Ask me about **React.js, React-Native, Next.js, Node.js, Fastify, MySQL, Postgresql**
 
 - 📫 How to reach me **floksong.001@gmail.com**
 
